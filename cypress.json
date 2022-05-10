@@ -1,0 +1,9 @@
+{
+    "testFiles": "**/*.{spec.js,feature}",
+    "screenshotsFolder": "cypress/snapshots/actual",
+    "trashAssetsBeforeRuns": true,
+    "env": {
+        "basePublicApiUrl": "https://dev-api.shopaffix.com",
+        "baseDashboardApiUrl": "https://dev-dashboard-api.shopaffix.com"
+    }
+}
